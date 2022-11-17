@@ -27,10 +27,10 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/rdtyzagilz'
-global.syt = 'https://youtube.com/channel/UCPH9AdS6UQImcRv6IFtQ5lg'
-global.sgh = 'https://github.com/gilzzbotz'
-global.sgc = 'https://chat.whatsapp.com/CxJShadfxYqCVAHHxdHSiy'
+global.sig = 'https://instagram.com/faisaltambak'
+global.syt = 'ytta'
+global.sgh = 'https://github.com/Dindal'
+global.sgc = 'https://chat.whatsapp.com/E8RMeLlfgPeIdjfLLQkgdQ'
 global.swa = 'wa.me/6285730794089'
 global.swb = 'https://lynk.id/gilzzx'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
@@ -41,18 +41,18 @@ global.povo = 'PC OWNER'
 global.pgopay = 'PC OWNER'
 global.ppulsa = 'PC OWNER'
 global.ppulsa2 = 'PC OWNER'
-global.psaweria = 'https://saweria.co/gilzzbotz'
+global.psaweria = 'sawer nya om PC admin'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6282334703987'
-global.nomorown = '6285730794089'
-global.namebot = 'Gilzz MD'
-global.nameown = 'Gilzz Azaa'
+global.nomorbot = '6287776549796'
+global.nomorown = '6285877064290'
+global.namebot = 'FaisalMD'
+global.nameown = 'Faisal Azaa'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285730794089', 'Gilzz XD', 'true']
+  ['6285877064290', 'Faisal XD', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -126,11 +126,11 @@ global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.botintro = 'Hallo, Kenalin saya Gilz Botz Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓* Saya di rilis pada tanggal\n🗓 ️_07/11/2022_'
 global.intro = 'https://telegra.ph/file/60e7e7ceb559e5e8dc191.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'Gilzz Tch'
-global.umurowner = '15'
+global.nameowner = 'Faisal Tch'
+global.umurowner = '17'
 global.asalowner = 'Amerika Serikat, New York'
-global.nomorowner = 'wa.me/6285730794089'
-global.pacarowner = 'Kepo amat sih;v'
+global.nomorowner = 'wa.me/6285877064290'
+global.pacarowner = 'Masih Singgle;v'
 
 /*============== TEXT ==============*/
 global.wait = '```𝙇𝙤𝙖𝙙𝙞𝙣𝙜...```'
